@@ -20,11 +20,3 @@ O Restaurante Chapa Quente deseja melhorar a gestão de suas receitas e estoque 
 1. Clone o repositório para o seu ambiente local.
 2. Instale as dependências necessárias.
 3. Execute o programa principal para utilizar a ferramenta de construção de cardápios.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo LICENSE para obter mais detalhes.
-
----
-
-Lembre-se de personalizar as seções conforme necessário e adicionar mais detalhes sobre como instalar, configurar e utilizar o projeto, se necessário.
